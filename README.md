@@ -1,14 +1,5 @@
 # hatnik-test-lib
 
-A Clojure library designed to ... well, that part is up to you.
+Dummy library that can be released on any time. Used for testing [Hatnik](http://hatnik.clojurecup.com)
 
-## Usage
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
