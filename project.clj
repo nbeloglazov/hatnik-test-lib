@@ -1,4 +1,4 @@
-(defproject com.nbeloglazov/hatnik-test-lib "0.1.7"
+(defproject com.nbeloglazov/hatnik-test-lib "0.2.4"
   :description "Dummy library that can be released on any time. Used for testing Hatnik."
   :url "http://hatnik.clojurecup.com"
   :license {:name "Eclipse Public License"
